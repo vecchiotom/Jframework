@@ -16,4 +16,4 @@ Is That J# CAN ADAPT TO YOUR MOTHERLANGUAGE!!!! let's see some examples:
 # FAQs:
 this project is released?
 
-NO, i'm working hard to make all functions correctly so it will take some months! i'll notice you here!!
+               NO, i'm working hard to make all functions correctly so it will take some months! i'll notice you here!!
