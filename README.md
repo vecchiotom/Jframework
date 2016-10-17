@@ -12,6 +12,7 @@ Is That J# CAN ADAPT TO YOUR MOTHERLANGUAGE!!!! let's see some examples:
                                 to set  textbox's text in visual basic: TextboxExample.Text="whatever you want"
                                 in J# English: text of TextboxExample= "whatever you want"
                                 in J# Italian: testo di TextboxExample="quello che vuoi"
+                                Note:the code might change in the release... stay informed here!
                                 
 # FAQs:
 this project is released?
