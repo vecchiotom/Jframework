@@ -17,3 +17,8 @@ Is That J# CAN ADAPT TO YOUR MOTHERLANGUAGE!!!! let's see some examples:
 this project is released?
 
                NO, i'm working hard to make all functions correctly so it will take some months! i'll notice you here!!
+               
+           
+The Framework Will Be Compiled?
+                                         
+                     No,you'll need to compile all using one version of visual studio or visual basic as you want
