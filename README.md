@@ -23,3 +23,7 @@ this project is released?
 The Framework Will Be Compiled?
                                          
                      No,you'll need to compile all using one version of visual studio or visual basic as you want
+
+
+
+# Guys!!! a VERY IMPORTANT news!! the alpha will be released in some weeks! it will have basics function just to make you know what really this project can do! For now there are no functions related to the internet... just client functions like getting system information or making constants and variables! Stay tuned and just wait the alpha to know more!!!
