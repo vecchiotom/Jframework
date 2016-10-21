@@ -1,0 +1,4 @@
+
+NEVER DOWNLOAD BETA FILES BEFORE READING THIS!
+
+we've found a bug. if you download and open the application you will be not able to close it until a reboot. we've removed bugged files and we're fixing all!
